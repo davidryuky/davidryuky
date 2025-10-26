@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/vjfMONS.png">
+</div>
+
 <h1 align="center">Hi 👋, I'm Davi</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
